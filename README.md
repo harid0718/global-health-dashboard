@@ -13,7 +13,7 @@ This dashboard highlights:
 - 🔹 A world map view of country-wise life expectancy
 
 <p align="center">
-  <img src=""assets\global-health-pulse-2025-04-20T20-53-18.457Z.jpg"" alt="Dashboard Layout Preview" width="700"/>
+  <img src=""assets\Dashboard.jpg"" alt="Dashboard Layout Preview" width="700"/>
 </p>
 
 ---
