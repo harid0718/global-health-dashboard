@@ -55,11 +55,17 @@ global-health-dashboard/
 
 ```
 
-## 🔁 How to Import This Dashboard
+### 🔁 How to Import This Dashboard
 
-1. Launch a local Superset instance
-2. Navigate to: **Settings → Import Dashboard**
-3. Upload `superset_dashboard/dashboard_export.zip`
+To use this Superset dashboard:
+
+1. Launch your local **Apache Superset** instance
+2. Navigate to: `Settings → Import Dashboard`
+3. Upload the file:  
+   `superset_dashboard/dashboard_export.zip` *(included in this repo)*
+
+🧠 This will automatically recreate all charts, layout, and filters in your Superset workspace.
+
 
 ---
 
